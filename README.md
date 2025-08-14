@@ -26,7 +26,7 @@ pip install matplotlib
 
 
 
-python age_insight.py
+python population_dashboard.py
 
 3. Enter your age when prompted and get your age group insights.
 
